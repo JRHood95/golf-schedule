@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFF;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("images/PebbleBeach8.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+#header-text {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    top: 38%;
+    width: 60%;
+}
+
+.main {
+    background: url("images/water-blue-ocean.jpg");
+    margin: 5px 0px 0px 0px;
+    padding: 40px;
+    word-spacing: 0.25em;
+}
+
+h1 {
+    color: #FFF;
+    font-family: Shrikhand;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+}
+
+h2 {
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    line-height: 1.4;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+th {
+    font-family: 'Abril Fatface';
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+}
+
+.Table {
+    background-color: #fff;
+}
+
+td {
+    padding: 5px;
+    font-family: 'Patua One';
+    background-color: rgba(200, 200, 200, 0.4);
+}
+
+#hoods {
+    text-decoration: overline;
+    color: black;
+    font-family: Pacifico, sans-serif;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 100;
+}
